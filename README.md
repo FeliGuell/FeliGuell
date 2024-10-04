@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feliguellweb/)](https://www.linkedin.com/in/feliguellweb/)
 [![Website Badge](https://img.shields.io/badge/-portfolio.web-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://felipeguell-portfolio.web.app/es)](https://felipeguell-portfolio.web.app/es)
 [![Gmail Badge](https://img.shields.io/badge/-feliguells-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:feliguells@gmail.com)](mailto:feliguells@gmail.com)
-<a href="https://wa.me/+5492645846555"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+[![Whatsapp Badge](https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white&link=https://wa.me/+5492645846555)](https://wa.me/+5492645846555)
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
